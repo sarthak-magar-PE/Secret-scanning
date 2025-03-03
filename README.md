@@ -8,3 +8,14 @@ We have a few steps in Secret Scanning that is developed by the Infosec team.
 1. Activating Github Actions whenever a pull request event is happening. 
 3. Running Trufflehog when a pull request event (opened, reopened, synchronized, closed) has happened and scanning the repo for secrets using Trufflehog. 
 4. If secrets are found creating an issue in the repository where the secrets are identified and providing necessary information like, commit id, file where the secret is identified and the user who pushed the code, sending an alert via webhook to infosec channel.
+
+
+**Workflow Diagram for Github Self Hosted Runner:**
+
+<img width="1340" alt="image" src="https://github.com/user-attachments/assets/fa8bd0a3-ed9f-4529-85d3-6cdb652433b4" />
+
+**Secret Scanning Automation Workflow:**
+
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/954eb986-b045-4f1a-a764-ab3d0ad2f799" />
+
+
