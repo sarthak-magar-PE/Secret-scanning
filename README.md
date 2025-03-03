@@ -5,6 +5,6 @@ Approach in Pharmeasy for Github Secret Scanning: We have implemented a Secret S
 
 We have a few steps in Secret Scanning that is developed by the Infosec team. 
 
-Activating Github Actions whenever a pull request event is happening. 
-Running Trufflehog when a pull request event (opened, reopened, synchronized, closed) has happened and scanning the repo for secrets using Trufflehog. 
-If secrets are found creating an issue in the repository where the secrets are identified and providing necessary information like, commit id, file where the secret is identified and the user who pushed the code, sending an alert via webhook to infosec channel.
+1. Activating Github Actions whenever a pull request event is happening. 
+3. Running Trufflehog when a pull request event (opened, reopened, synchronized, closed) has happened and scanning the repo for secrets using Trufflehog. 
+4. If secrets are found creating an issue in the repository where the secrets are identified and providing necessary information like, commit id, file where the secret is identified and the user who pushed the code, sending an alert via webhook to infosec channel.
