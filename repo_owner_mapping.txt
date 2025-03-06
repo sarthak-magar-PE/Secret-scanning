@@ -5,8 +5,7 @@ B2CAPIs,deepak.nigam@pharmeasy.in
 billing-snapshot-service,mohit.dubey@pharmeasy.in
 cliso,kavin@pharmeasy.in
 cliso_mw,mohit.dubey@pharmeasy.in ankit.g@pharmeasy.in rajesh.n@pharmeasy.in
-cliso_order_listing,"ankit.g@pharmeasy.in
-mohit.dubey@pharmeasy.in"
+cliso_order_listing,ankit.g@pharmeasy.in
 CliSoAPI,mohit.dubey@pharmeasy.in
 ClisoToCharbiSync,ankit.g@pharmeasy.in
 ClisoWebUI,kavin@pharmeasy.in
