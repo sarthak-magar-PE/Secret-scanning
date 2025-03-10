@@ -50,4 +50,3 @@ Velso,mohit.dubey@pharmeasy.in
 m-archive,ankit.g@pharmeasy.in
 helix,kavin@pharmeasy.in
 Billing,kavin@pharmeasy.in
-infosec_test,sarthak.magar@pharmeasy.in
